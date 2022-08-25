@@ -1,0 +1,40 @@
+.tarefas-input {
+    margin-bottom: 24px;
+}
+
+.tarefas-input h1 {
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    /* identical to box height */
+
+    letter-spacing: 15px;
+
+    color: #FFFFFF;
+
+}
+
+.tarefas-input input {
+    width: 540px;
+    padding: 20px 0 20px 24px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 35px 50px -15px rgba(194, 195, 214, 0.5);
+}
+
+.tarefas-input input::placeholder {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+
+
+    letter-spacing: -0.25px;
+
+    color: #9495A5;
+}
